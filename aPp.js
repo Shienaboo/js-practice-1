@@ -9,6 +9,7 @@ console.log('Using Booleans');
 let c = true;
 let d = false;
 console.log("I am learning programming", d);
+console.log("I won't give up",);
 
 console.log('Comparison Operators Section');
 let e = ;
